@@ -1,0 +1,25 @@
+{
+  "name": "pr-police",
+  "version": "0.0.1",
+  "description": "Alert you when a PR is in specific state for too long.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bluetel/pr-police.git"
+  },
+  "keywords": [
+    "git",
+    "github",
+    "pull",
+    "request"
+  ],
+  "author": "Bluetel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bluetel/pr-police/issues"
+  },
+  "homepage": "https://github.com/bluetel/pr-police#readme"
+}
